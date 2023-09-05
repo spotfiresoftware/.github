@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="SpotfireLogo.png">
- <source media="(prefers-color-scheme: light)" srcset="SpotfireLogo.png">
- <img alt="Shows the Spotfire logo" src="SpotfireLogo.png">
+ <source media="(prefers-color-scheme: dark)" srcset="/profile/SpotfireLogo.png">
+ <source media="(prefers-color-scheme: light)" srcset="/profile/SpotfireLogo.png">
+ <img alt="Shows the Spotfire logo" src="/profile/SpotfireLogo.png">
 </picture>
 
 ## About Spotfire
