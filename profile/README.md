@@ -1,4 +1,8 @@
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="SpotfireLogo.png">
+ <source media="(prefers-color-scheme: light)" srcset="SpotfireLogo.png">
+ <img alt="Shows the Spotfire logo" src="SpotfireLogo.png.png">
+</picture>
 
 ## About Spotfire
 
