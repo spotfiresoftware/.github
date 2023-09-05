@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="/profile/SpotfireLogo.png">
- <source media="(prefers-color-scheme: light)" srcset="/profile/SpotfireLogo.png">
- <img alt="Shows the Spotfire logo" src="/profile/SpotfireLogo.png">
-</picture>
-
 ## About Spotfire
 
 Spotfire® software, a business unit of Cloud Software Group, provides powerful, self-service analytics for data-intensive businesses.
