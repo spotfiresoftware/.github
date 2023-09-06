@@ -1,7 +1,14 @@
-## About Spotfire
+# Welcome to Spotfire on GitHub
 
-Spotfire® software, a business unit of Cloud Software Group, provides powerful, self-service analytics for data-intensive businesses.
-Spotfire goes beyond basic rearview dashboards to offer a single visual analytics platform for data exploration and real-time decisions. Backed by point and click no-code data science, Spotfire allows for even the non-developer to analyze both data at-rest and data in-motion—together—for faster time-to-insight and better business outcomes.
+Here Spotfire engineers and enthusiasts come together to take visual analytics to new heights, using ever-evolving open-source frameworks for expanding Spotfire.  
+
+
+* [Spotfire Mods](https://github.com/spotfiresoftware/spotfire-mods)  
+Create your own visualizations that look and feel like native Spotfire visualizations.
+
+
+* [Spotfire Cloud Deployment Kit](https://github.com/spotfiresoftware/spotfire-cloud-deployment-kit)  
+A starting point for deploying Spotfire using containers and Helm charts in a Kubernetes cluster.
 
 <!--
 
